@@ -5,6 +5,8 @@ description: This file contains the information regarding big plans and mega-urb
 file: /courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/07f8a41673e6614b50420f2b6a9429f9_MIT11_123S14_assignment2.pdf
 file_size: 115792
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

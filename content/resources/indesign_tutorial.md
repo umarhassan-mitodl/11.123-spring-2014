@@ -4,6 +4,8 @@ description: This is the special file regarding indesign tutorial.
 file: /courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/efa4692e225d090e91a2814661be7cbb_InDesign_Tutorial.zip
 file_size: 9440766
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
