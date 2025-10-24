@@ -4,8 +4,6 @@ description: ''
 file: /courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/a61477e6a1b882abb9c3cdcadbd6cf02_PEOPL206.psd
 file_size: 2005605
 file_type: image/x-photoshop
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

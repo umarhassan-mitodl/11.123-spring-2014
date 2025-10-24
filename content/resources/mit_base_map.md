@@ -4,8 +4,6 @@ description: This is the special file regarding base map image.
 file: /courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/3df71a3701b785cc1c279857f1399a7a_MIT_Base_Map.jpg
 file_size: 334430
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

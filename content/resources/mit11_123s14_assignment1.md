@@ -4,8 +4,6 @@ description: ''
 file: /courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/def89fcf80331387ce729a8862b7a3c4_MIT11_123S14_assignment1.pdf
 file_size: 65439
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

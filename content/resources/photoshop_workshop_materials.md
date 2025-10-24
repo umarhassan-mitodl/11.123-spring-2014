@@ -4,8 +4,6 @@ description: ''
 file: /courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/32cb3d4bd32a53b40440ff8be0a1abef_Photoshop_Workshop_Materials.zip
 file_size: 3535367
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
